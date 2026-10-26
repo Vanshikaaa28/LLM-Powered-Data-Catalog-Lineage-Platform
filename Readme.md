@@ -399,6 +399,6 @@ llm-data-catalog/
 Data Engineering | Data Platforms | LLM Integration
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Vanshikaaa28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/vanshikaaa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vanshikaaa/)
 
 ---
