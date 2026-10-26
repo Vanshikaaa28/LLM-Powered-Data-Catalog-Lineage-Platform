@@ -223,7 +223,7 @@ quality scores and lineage.
 
 ### Step 1 — Clone the repo
 ```bash
-git clone https://github.com/sauravattri23/llm-data-catalog.git
+git clone https://github.com/Vanshikaaa28/LLM-Powered-Data-Catalog-Lineage-Platform.git
 cd llm-data-catalog
 ```
 
