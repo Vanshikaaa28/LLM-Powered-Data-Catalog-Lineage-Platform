@@ -395,12 +395,10 @@ llm-data-catalog/
 
 ## 👨‍💻 Author
 
-**Saurav Attri**
+**Vanshika Jaiswal**
 Data Engineering | Data Platforms | LLM Integration
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/sauravattri23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sauravattri23)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Vanshikaaa28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/vanshikaaa/)
 
 ---
-
-## ⭐ Star this repo if you find it useful!
